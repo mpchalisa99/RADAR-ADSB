@@ -1,0 +1,10 @@
+{
+  "name": "Remix MATA DISKOMLEKAU (SELURUH SATRAD, GPS LOKAL) COMPLETE",
+  "description": "Modul Akuisisi Target Angkasa (MATA) - Sistem pemantauan udara taktis, radar, navigasi zona peringatan dini, dan asisten intelijen taktis bertenaga AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
